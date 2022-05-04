@@ -1,6 +1,6 @@
 # PHP_Application
 
-For testing pourposes:
+For testing purposes:
 
 username: sajdimuda
 password: Sajdi@1998!?
